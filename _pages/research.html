@@ -1,0 +1,54 @@
+---
+title: "Projects:"
+permalink: /research/
+author_profile: true
+---
+
+<h2>Graph-Based Machine Learning for Speech-Critical Brain Mapping</h2>
+<div class="section">
+    <img src="/images/pipeline.jpg" alt="ECoG" style="width: 650px;">
+    <ul>
+        <li>Built predictive models for speech-critical cortical regions from ECoG data using a machine learning pipeline with anatomical and graph-based features, and a graph neural network (GNN) trained directly on connectivity graphs. Achieved up to AUC-ROC = 0.87 across subjects with feature-level interpretability.</li> 
+    </ul>
+</div>
+
+
+<h2 style="margin-top: 80px;">Transformer Models with Token Merging for fMRI Decoding</h2>
+<div class="section">
+    <img src="/images/fmri.png" alt="ECoG" style="width: 800px;">
+    <div style="font-size: 0.8em; color: #666; margin-top: 4px;">
+        Figure credit: Chenqian Le
+    </div>
+    <ul>
+        <li>Contributed to the development of a transformer-based framework with token merging and query-driven alignment for efficient multi-subject fMRI decoding. Achieved competitive retrieval performance with a 12–24× reduction in parameters compared to prior work.</li>
+    </ul>
+</div>
+
+
+<h2 style="margin-top: 80px;">Neural Speech Decoding</h2>
+<div class="section">
+    <img src="/images/ecog.png" alt="ECoG" style="width: 800px;">
+    <div style="font-size: 0.8em; color: #666; margin-top: 4px;">
+        Figure credit: Xupeng Chen
+    </div>
+    <ul>
+        <li>Implemented a vector quantization module for integration into an existing speech decoder framework, which maps input spectrograms to speech parameters including Pitch Frequency, Formant Filter Center Frequencies, and Broadband Unvoiced Filter Frequency. Focused on implementing VQ-VAE1 and VQ-VAE2 models to optimize performance with our dataset.</li>
+        <li>Developed a phoneme classifier using spectrograms as input data to integrate phoneme classification loss into an existing speech generator model. Evaluated several models, including MLP, simple RNN, GRU, and LSTM, to accurately classify phonemes from the spectrogram features.</li>
+    </ul>
+</div>
+
+<h2 style="margin-top: 80px;">Deep Learning-Based Brain Decoding</h2>
+<div class="section">
+    <img src="/images/ccn.png" alt="Brain Decoding" style="width: 700px;">
+    <p style="margin-top: 30px;">
+    Developed a brain decoding method using visual features from deep neural networks and the Natural Scenes Dataset. Features were extracted with ResNet-50 and DINOv2, and dimensionality was reduced using PCA and UMAP. Nilearn’s SpaceNet Decoder with Graph-Net regularization was employed to generate classification and regression weight maps from fMRI data. Find our paper <a href="https://2024.ccneuro.org/pdf/421_Paper_authored_CCN_2024_Neuro_original.pdf" style="color: #0056b3;">here</a>.
+    </p>
+</div>
+
+<h2 style="margin-top: 80px;">Handwritten Word Synthesis with GANs</h2>
+<div class="section">
+    <img src="/images/gan.png" alt="GAN" style="width: 500px;">
+    <p style="margin-top: 30px;">
+    Generated a dataset of handwritten Persian words by applying Generative Adversarial Networks (GANs) to a dataset of typed Persian words, initially extracted using a YOLOv5 model on typed documents.
+    </p>
+</div>
