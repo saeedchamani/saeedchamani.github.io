@@ -1,0 +1,35 @@
+# main links
+main:
+
+  - title: "Research"
+    url: /research/
+    
+  - title: "Updates"
+    url: /updates/
+
+  - title: "CV"
+    url: /files/CV.pdf
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/ 
+
+
+    
+  # - title: "Talks"
+  #   url: /talks/ 
+
+  # - title: "Teaching"
+  #   url: /teaching/ 
+     
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  
+  # - title: "Updates"
+  #   url: /markdown/
+
