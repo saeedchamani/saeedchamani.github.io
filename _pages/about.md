@@ -15,4 +15,3 @@ Recently, I have also gained practical experience in technical roles, working on
 
 Currently, I am actively preparing to pursue a Ph.D. in Computer Engineering, Electrical Engineering, or Biomedical Engineering for the upcoming 2026 academic term, with a keen interest in continuing my research in AI-driven healthcare solutions.
 
-Outside of research, I enjoy [Your Hobbies here, e.g., reading about new technologies, hiking, etc.].
