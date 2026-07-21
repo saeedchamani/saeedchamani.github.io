@@ -17,8 +17,8 @@ Currently, I am actively preparing to pursue a Ph.D. in Computer Engineering, El
 
 <style>
 .author__avatar img {
-    width: 200px !important;
-    height: 200px !important;
+    width: 230px !important;
+    height: 230px !important;
     object-fit: cover !important;
     border-radius: 50% !important;
 }
