@@ -11,11 +11,9 @@ redirect_from:
 
 Hi! I am Saeed Chamani. I hold a Master's degree in Bioelectric Engineering from the Iran University of Science and Technology (IUST), where I graduated as the top-ranked student in my class. I received my Bachelor's degree in Electrical Engineering from Tabriz University.
 
-My research predominantly focuses on <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>Medical Image Segmentation</b>. I have proposed and advanced novel deep learning architectures—integrating multi-attention mechanisms and hybrid transformer bottlenecks—specifically tailored for complex medical imaging tasks such as echocardiography segmentation and brain tumor analysis. My work has been published in peer-reviewed journals, including <i>Scientific Reports (Nature)</i> and <i>Machine Learning with Applications (ScienceDirect)</i>.
+My research predominantly focuses on AI in Healthcare, Medical Image and Signal Processing, and Computer Vision. I am currently conducting research on multimodal imaging for neuroscience applications, while actively working on the analysis of medical data.
 
-Beyond clinical imaging, I have extensive project experience in intelligent video analytics (YOLOv8 & DeepSORT frameworks), biomedical signal processing (EEG analysis for sleep and schizophrenia datasets), and computational neuroscience. 
-
-Currently, I am actively seeking a Ph.D. position in Computer Engineering, Electrical Engineering, or Biomedical Engineering for the upcoming 2026 academic term, aiming to expand my research in AI-driven healthcare solutions.
+Currently, I am actively seeking a Ph.D. position in Computer Engineering, Electrical Engineering, or Biomedical Engineering for the upcoming academic term, aiming to expand my research in AI-driven healthcare solutions.
 
 </div>
 
