@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Saeed Chamani. I hold a Master's degree in Bioelectric Engineering from the Iran University of Science and Technology (IUST).
+<div style="text-align: justify; text-justify: inter-word; font-size: 1.08rem; line-height: 1.65;">
 
-My research primarily focuses on **Deep Learning** and **Medical Image Segmentation**. I have worked extensively with advanced architectures like TransUNet and MWG-Net, particularly for complex tasks such as echocardiography segmentation and the analysis of T1/T2-weighted medical images. I am highly passionate about optimizing models and implementing novel paper innovations to maximize final model accuracy without heavily relying on data augmentation.
+Hi! [cite_start]I am Saeed Chamani[cite: 1]. [cite_start]I hold a Master's degree in Bioelectric Engineering from the Iran University of Science and Technology (IUST), where I graduated as the top-ranked student in my class[cite: 5, 46]. [cite_start]I received my Bachelor's degree in Electrical Engineering from Tabriz University[cite: 7, 8].
 
-Recently, I have also gained practical experience in technical roles, working on projects that involve automated image analysis, sentiment classification, and data engineering using Python. 
+[cite_start]My research predominantly focuses on <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>Medical Image Segmentation</b>[cite: 11, 13, 18]. [cite_start]I have proposed and advanced novel deep learning architectures—integrating multi-attention mechanisms and hybrid transformer bottlenecks—specifically tailored for complex medical imaging tasks such as echocardiography segmentation and brain tumor analysis[cite: 22, 40]. [cite_start]My work has been published in peer-reviewed journals, including <i>Scientific Reports (Nature)</i> and <i>Machine Learning with Applications (ScienceDirect)</i>[cite: 24, 25, 27, 31].
 
-Currently, I am actively preparing to pursue a Ph.D. in Computer Engineering, Electrical Engineering, or Biomedical Engineering for the upcoming 2026 academic term, with a keen interest in continuing my research in AI-driven healthcare solutions.
+[cite_start]Beyond clinical imaging, I have extensive project experience in intelligent video analytics (YOLOv8 & DeepSORT frameworks), biomedical signal processing (EEG analysis for sleep and schizophrenia datasets), and computational neuroscience[cite: 20, 40]. 
+
+Currently, I am actively seeking a Ph.D. position in Computer Engineering, Electrical Engineering, or Biomedical Engineering for the upcoming 2026 academic term, aiming to expand my research in AI-driven healthcare solutions.
+
+</div>
 
 <style>
 .author__avatar img {
