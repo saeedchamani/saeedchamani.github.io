@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; text-justify: inter-word; font-size: 1.08rem; line-height: 1.65;">
+<div style="text-align: justify; text-justify: inter-word; font-size: 1.08rem; line-height: 1.7; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
-Hi! I am Saeed Chamani. I hold a Master's degree in Bioelectric Engineering from the Iran University of Science and Technology (IUST), where I graduated as the top-ranked student in my class. I received my Bachelor's degree in Electrical Engineering from Tabriz University.
+<p style="margin-bottom: 1.5rem;">Hi! I am Saeed Chamani. I hold a Master's degree in Bioelectric Engineering from the Iran University of Science and Technology (IUST), where I graduated as the top-ranked student in my class. I received my Bachelor's degree in Electrical Engineering from Tabriz University.</p>
 
-My research predominantly focuses on AI in Healthcare, Medical Image and Signal Processing, and Computer Vision. I am currently conducting research on multimodal imaging for neuroscience applications, while actively working on the analysis of medical data.
+<p style="margin-bottom: 1.5rem;">My research predominantly focuses on AI in Healthcare, Medical Image and Signal Processing, and Computer Vision. I am currently conducting research on multimodal imaging for neuroscience applications, while actively working on the analysis of medical data.</p>
 
-Currently, I am actively seeking a Ph.D. position in Computer Engineering, Electrical Engineering, or Biomedical Engineering for the upcoming academic term, aiming to expand my research in AI-driven healthcare solutions.
+<p style="margin-bottom: 0;">Currently, I am actively seeking a Ph.D. position in Computer Engineering, Electrical Engineering, or Biomedical Engineering for the upcoming academic term, aiming to expand my research in AI-driven healthcare solutions.</p>
 
 </div>
 
